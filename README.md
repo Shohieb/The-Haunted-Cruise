@@ -19,9 +19,7 @@ Players must solve environmental puzzles, uncover hidden secrets, and escape whi
 
 # 🎥 Trailer
 
-[*(https://youtu.be/VbhcZSRNuy0)*]
-
-Or add the trailer GIF below.
+[![Watch the Trailer](https://img.youtube.com/vi/VbhcZSRNuy0/maxresdefault.jpg)](https://youtu.be/VbhcZSRNuy0)
 
 ---
 
