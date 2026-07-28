@@ -25,17 +25,17 @@ Players must solve environmental puzzles, uncover hidden secrets, and escape whi
 
 # 📸 Screenshots
 
-![Corridor](Screenshots/Corridor.png)
-![Corridor 2](Screenshots/Corridor2.png)
-![Archive Room](Screenshots/ArchiveRoom.png)
-![Archive Room 2](Screenshots/ArchiveRoom2.png)
-![Archive Room 3](Screenshots/ArchiveRoom3.png)
-![Lower Deck](Screenshots/LowerDeck.png)
-![Lower Deck 2](Screenshots/LowerDeck2.png)
-![Lower Deck 3](Screenshots/LowerDeck3.png)
-![Prison Room](Screenshots/PrisonRoom.png)
-![Prison Room 2](Screenshots/PrisonRoom2.png)
-![Prison Room 3](Screenshots/PrisonRoom3.png)
+![Corridor](The-Haunted-Cruise/Screenshots/Corridor.png)
+![Corridor 2](The-Haunted-Cruise/Screenshots/Corridor2.png)
+![Archive Room](The-Haunted-Cruise/Screenshots/ArchiveRoom.png)
+![Archive Room 2](The-Haunted-Cruise/Screenshots/ArchiveRoom2.png)
+![Archive Room 3](The-Haunted-Cruise/Screenshots/ArchiveRoom3.png)
+![Lower Deck](The-Haunted-Cruise/Screenshots/LowerDeck.png)
+![Lower Deck 2](The-Haunted-Cruise/Screenshots/LowerDeck2.png)
+![Lower Deck 3](The-Haunted-Cruise/Screenshots/LowerDeck3.png)
+![Prison Room](The-Haunted-Cruise/Screenshots/PrisonRoom.png)
+![Prison Room 2](The-Haunted-Cruise/Screenshots/PrisonRoom2.png)
+![Prison Room 3](The-Haunted-Cruise/Screenshots/PrisonRoom3.png)
 
 ---
 
