@@ -31,7 +31,7 @@ Examples:
 
 - Main Corridor
 - Prison Room
-![Archive Room](ArchiveRoom.png)
+![Archive Room](Screenshots/ArchiveRoom.png)
 - Ghost Encounter
 - Puzzle Room
 - Cinematic
