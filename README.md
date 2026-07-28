@@ -29,9 +29,9 @@ Players must solve environmental puzzles, uncover hidden secrets, and escape whi
 
 Examples:
 
-- Main Corridor
-- Prison Room
 ![Archive Room](Screenshots/ArchiveRoom.png)
+![Archive Room 2](Screenshots/ArchiveRoom2.png)
+![Archive Room 3](Screenshots/ArchiveRoom3.png)
 - Ghost Encounter
 - Puzzle Room
 - Cinematic
