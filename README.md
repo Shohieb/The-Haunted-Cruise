@@ -25,18 +25,17 @@ Players must solve environmental puzzles, uncover hidden secrets, and escape whi
 
 # 📸 Screenshots
 
-> Add 8–12 screenshots inside a `/Screenshots` folder.
-
-Examples:
-
+![Corridor](Screenshots/Corridor.png)
+![Corridor 2](Screenshots/Corridor2.png)
 ![Archive Room](Screenshots/ArchiveRoom.png)
 ![Archive Room 2](Screenshots/ArchiveRoom2.png)
 ![Archive Room 3](Screenshots/ArchiveRoom3.png)
-- Ghost Encounter
-- Puzzle Room
-- Cinematic
-- Keypad Puzzle
-- Final Escape
+![Lower Deck](Screenshots/LowerDeck.png)
+![Lower Deck 2](Screenshots/LowerDeck2.png)
+![Lower Deck 3](Screenshots/LowerDeck3.png)
+![Prison Room](Screenshots/PrisonRoom.png)
+![Prison Room 2](Screenshots/PrisonRoom2.png)
+![Prison Room 3](Screenshots/PrisonRoom3.png)
 
 ---
 
