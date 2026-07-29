@@ -177,6 +177,8 @@ GitHub: https://github.com/Shohieb
 
 Email: shohieb67@gmail.com
 
+itch.io: https://shohieb.itch.io/the-haunted-cruise
+
 ---
 
 # ⭐ If you enjoyed this project, consider giving the repository a star.# The-Haunted-Cruise
